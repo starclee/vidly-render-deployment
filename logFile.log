@@ -1,0 +1,98 @@
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"error","message":"Re is not defined - POST /api/returns Re is not defined","stack":"ReferenceError: Re is not defined\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:24:1\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Re is not defined - POST /api/returns Re is not defined","stack":"ReferenceError: Re is not defined\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:24:1\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Re is not defined - POST /api/returns Re is not defined","stack":"ReferenceError: Re is not defined\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:24:1\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Re is not defined - POST /api/returns Re is not defined","stack":"ReferenceError: Re is not defined\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:24:1\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Re is not defined - POST /api/returns Re is not defined","stack":"ReferenceError: Re is not defined\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:24:1\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"error","message":"Rental.return is not a function - POST /api/returns Rental.return is not a function","stack":"TypeError: Rental.return is not a function\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:24:15\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Rental.return is not a function - POST /api/returns Rental.return is not a function","stack":"TypeError: Rental.return is not a function\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:24:15\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Rental.return is not a function - POST /api/returns Rental.return is not a function","stack":"TypeError: Rental.return is not a function\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:24:15\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Rental.return is not a function - POST /api/returns Rental.return is not a function","stack":"TypeError: Rental.return is not a function\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:24:15\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Rental.return is not a function - POST /api/returns Rental.return is not a function","stack":"TypeError: Rental.return is not a function\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:24:15\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"error","message":"Rental.return is not a function - POST /api/returns Rental.return is not a function","stack":"TypeError: Rental.return is not a function\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:23:16\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Rental.return is not a function - POST /api/returns Rental.return is not a function","stack":"TypeError: Rental.return is not a function\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:23:16\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Rental.return is not a function - POST /api/returns Rental.return is not a function","stack":"TypeError: Rental.return is not a function\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:23:16\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Rental.return is not a function - POST /api/returns Rental.return is not a function","stack":"TypeError: Rental.return is not a function\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:23:16\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Rental.return is not a function - POST /api/returns Rental.return is not a function","stack":"TypeError: Rental.return is not a function\n    at D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:23:16\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"error","message":"re is not defined - POST /api/returns re is not defined","stack":"ReferenceError: re is not defined\n    at re (D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:23:3)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"re is not defined - POST /api/returns re is not defined","stack":"ReferenceError: re is not defined\n    at re (D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:23:3)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"re is not defined - POST /api/returns re is not defined","stack":"ReferenceError: re is not defined\n    at re (D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:23:3)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"re is not defined - POST /api/returns re is not defined","stack":"ReferenceError: re is not defined\n    at re (D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:23:3)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"re is not defined - POST /api/returns re is not defined","stack":"ReferenceError: re is not defined\n    at re (D:\\Learning new\\Node Js with Mosh\\vidly\\routes\\returns.js:23:3)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
+{"level":"info","message":"Listening on port 3000"}
